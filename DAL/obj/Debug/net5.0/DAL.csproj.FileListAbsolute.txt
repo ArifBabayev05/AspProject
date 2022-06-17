@@ -1,0 +1,30 @@
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/bin/Debug/net5.0/DAL.deps.json
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/bin/Debug/net5.0/DAL.runtimeconfig.json
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/bin/Debug/net5.0/DAL.runtimeconfig.dev.json
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/bin/Debug/net5.0/DAL.dll
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/bin/Debug/net5.0/DAL.pdb
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.csproj.AssemblyReference.cache
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.AssemblyInfoInputs.cache
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.AssemblyInfo.cs
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.csproj.CoreCompileInputs.cache
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.dll
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/refint/DAL.dll
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.pdb
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/DAL.genruntimeconfig.cache
+C:/Users/husey/OneDrive/Рабочий стол/Asp.Net Mvs/Fiorello/DAL/obj/Debug/net5.0/ref/DAL.dll
+/Users/babayev_/Desktop/End/DAL/bin/Debug/net5.0/DAL.deps.json
+/Users/babayev_/Desktop/End/DAL/bin/Debug/net5.0/DAL.runtimeconfig.json
+/Users/babayev_/Desktop/End/DAL/bin/Debug/net5.0/DAL.runtimeconfig.dev.json
+/Users/babayev_/Desktop/End/DAL/bin/Debug/net5.0/DAL.dll
+/Users/babayev_/Desktop/End/DAL/bin/Debug/net5.0/DAL.pdb
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.csproj.AssemblyReference.cache
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.AssemblyInfoInputs.cache
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.AssemblyInfo.cs
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.csproj.CoreCompileInputs.cache
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.dll
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/refint/DAL.dll
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.pdb
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/DAL.genruntimeconfig.cache
+/Users/babayev_/Desktop/End/DAL/obj/Debug/net5.0/ref/DAL.dll
