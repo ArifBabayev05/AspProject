@@ -14,13 +14,20 @@ namespace Fiorello
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 4 "/Users/babayev_/Desktop/End/Fiorello/Views/_ViewImports.cshtml"
+using Fiorello.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "/Users/babayev_/Desktop/End/Fiorello/Views/_ViewImports.cshtml"
 using DAL.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f400a24e4f1c1f8dbc87c0f761266a45e781e06b", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c95b0ce114b933354ba4941ee67310bdd4effebd", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9413cf51f4e69be3d22137e8f313f04ddcd6d10c", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
